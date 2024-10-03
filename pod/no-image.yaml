@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: broken-pod-no-image
+  name: broken-pod4
 spec:
   containers:
     - name: doesntexist

@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: broken-pod-oom
+  name: broken-pod6
 spec:
   containers:
     - name: stress
