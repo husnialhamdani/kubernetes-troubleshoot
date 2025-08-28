@@ -12,7 +12,7 @@ spec:
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: broken-service-wrong-port
+  name: broken-service1
 spec:
   replicas: 3
   selector:
